@@ -1,2 +1,2 @@
-# NBA-Draft-Analysis
-Repository for performance analysis of NCAA college players to the NBA
+# NBA-Defense-Analysis
+Repository for analysis on the best defensive players in the NBA
